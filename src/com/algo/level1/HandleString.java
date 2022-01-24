@@ -3,9 +3,9 @@ package com.algo.level1;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class String {
+public class HandleString {
 
-	public static void main(java.lang.String[] args) throws Exception {
+	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
 		String s = br.readLine();
