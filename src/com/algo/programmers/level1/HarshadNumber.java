@@ -1,4 +1,4 @@
-package com.algo.level1;
+package com.algo.programmers.level1;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
