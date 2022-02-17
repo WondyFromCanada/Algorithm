@@ -1,4 +1,4 @@
-package com.algo.inflearn.hashmap;
+package com.algo.inflearn.treeset;
 
 import java.util.Collections;
 import java.util.Scanner;
